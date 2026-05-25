@@ -7,9 +7,9 @@ import './App.css'
 function App() {
   return (
     <div>
-      <h1>Cześć, jestem Tomasz Gimper Oddziałowy</h1>
+      <h1>Siema jestem filip</h1>
       <p>
-        I będę twoim przewodnikiem
+        I będę twoim ziomkiem
       </p>
     </div>
   )
